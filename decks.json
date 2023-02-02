@@ -1,28 +1,106 @@
 {
     "decks": [
         {
-            "title": "171 Most Common Irregular German Verbs! With sentences!",
+            "title": "Korean Vocabulary (People)",
             "cards": [
                 {
-                    "front": "can",
-                    "back": "können (can)\n\nPräsens: Ich kann dir morgen helfen, wenn du willst. I can help you tomorrow if you want. (Usually used with Präteritum in the past)"
+                    "front": "아기",
+                    "back": "Baby"
                 },
                 {
-                    "front": "to congratulate",
-                    "back": "gratulieren (to congratulate)\n\nPräsens: Ich gratuliere ihr morgen. I will congratulate her tomorrow.\nPerfekt: Wir haben ihr schon gratuliert. We have already congratulated her."
+                    "front": "아이",
+                    "back": "Child"
                 },
                 {
-                    "front": "to book",
-                    "back": "eservieren (to book)\n\nPräsens: Wenn du mitkommst, reserviere ich ein Doppelzimmer. If you come along, I’ll book a double room.\nPerfekt: Ich habe in deinem Lieblingsrestaurant reserviert. I booked [a table] in your favorite restaurant."
+                    "front": "학생",
+                    "back": "Student"
+                },
+                {
+                    "front": "아버지",
+                    "back": "Father"
+                },
+                {
+                    "front": "아빠",
+                    "back": "Dad"
+                },
+                {
+                    "front": "어머니",
+                    "back": "Mother"
+                },
+                {
+                    "front": "암마",
+                    "back": "Mum"
                 }
             ]
         },
         {
-            "title": "Test deck 2",
+            "title": "Korean Vocabulary (Food)",
             "cards": [
                 {
-                    "front": "This is the front of a card in the second deck",
-                    "back": "This is the back of a card in the second deck"
+                    "front": "오이",
+                    "back": "Cucumber"
+                },
+                {
+                    "front": "우유",
+                    "back": "Milk"
+                },
+                {
+                    "front": "맛",
+                    "back": "Flavour, the flavour, taste"
+                }
+            ]
+        },
+        {
+            "title": "Korean Vocabulary (Animals)",
+            "cards": [
+                {
+                    "front": "닭",
+                    "back": "Chicken"
+                },
+                {
+                    "front": "여우",
+                    "back": "Fox"
+                },
+                {
+                    "front": "개미",
+                    "back": "Ant"
+                }
+            ]
+        },
+        {
+            "title": "Korean Vocabulary (Example Sentences)",
+            "cards": [
+                {
+                    "front": "이것은 아기의 우유 입니다.",
+                    "back": "This is baby's milk."
+                },
+                {
+                    "front": "이것은 아기의 젖이다.",
+                    "back": "This is baby's milk."
+                },
+                {
+                    "front": "이 학생의 신문.",
+                    "back": "This student's newspaper."
+                },
+                {
+                    "front": "이 아이의 요요.",
+                    "back": "This is the child's yoyo."
+                },
+                {
+                    "front": "이 노래의 메시지.",
+                    "back": "This song's message."
+                },
+                {
+                    "front": "학생용 열쇠.",
+                    "back": "A student's key."
+                },
+                {
+                    "front": "어, 이건 아기의 우유야.",
+                    "back": "Oh, this is the baby's milk."
+                },
+                {
+                    "front": "한국의 신문.",
+                    "back": "Newspapers in Korea, Korean Newspapers"
                 }
             ]
         }
